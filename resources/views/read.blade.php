@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Reader</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -26,7 +26,7 @@
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2" style="grid-template-columns:3fr 1fr;">
                         <div class="p-6">
-                            <input type="text" id="file" style="width:100%;height:50px;border:1px solid #000;" placeholder="/path/to/file">
+                            <input type="text" id="file" style="width:100%;height:50px;border:1px solid #000;" placeholder="/path/to/file Ex. 'C:\xampp\htdocs\reader\storage\test.txt'">
                         </div>
 
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
